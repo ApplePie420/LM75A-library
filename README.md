@@ -92,3 +92,5 @@ void loop() {
   delay(1000);  //1s delay
 }
 ```
+
+###### *Also, i tested every function of library and it worked BUT, if you have any problems be sure to create new issue!*
