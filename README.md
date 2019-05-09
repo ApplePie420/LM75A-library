@@ -1,5 +1,5 @@
 # LM75A-library
-LM75A is a great value-size sensor IC with 0.5°C accuracy and Overtemperature Shutdown feature. It talks throught I2C protocol so its great for use with Arduino! That´s why i wrote this **complete** library with access to **all of LM75A´s registers and functions.** I´ve seen few libraries for this IC but none of them had ability to set OS mode or HYST temp.
+LM75A is a great value-size sensor IC with 0.5°C accuracy and Overtemperature Shutdown feature. It talks thought I2C protocol so its great for use with Arduino! That´s why i wrote this **complete** library with access to **all of LM75A´s registers and functions.** I´ve seen few libraries for this IC but none of them had ability to set OS mode or HYST temp.
 
 
 # Functions
